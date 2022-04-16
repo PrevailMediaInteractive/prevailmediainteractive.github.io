@@ -1,0 +1,11 @@
+.theintro { 
+font-family: Raleway;
+font-size: 24px;
+margin: 25px; 
+width: 350px;
+outline: dashed 1px black;
+}
+
+h2 {
+text-align: center; 
+}
